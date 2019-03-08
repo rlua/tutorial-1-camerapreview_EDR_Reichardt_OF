@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="28"
+    build-mode="FULL"
+    density="420dpi"
+    format="10"
+    plugin-version="3.1.4"
+    timestamp="1539365368002"
+    token="-8572182232762571893"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="825" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="95" />
+    <task
+        name="verifier"
+        duration="74" />
+
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/instant-run-apk/debug/openCVTutorial1CameraPreview-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1539365368002"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/instant-run-apk/debug/openCVTutorial1CameraPreview-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

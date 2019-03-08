@@ -1,0 +1,4 @@
+#Wed Oct 03 14:09:36 CDT 2018
+base.0=/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/transforms/dexMerger/debug/73
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":301,"versionName":"3.01","enabled":true,"outputFile":"openCVTutorial1CameraPreview-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.opencv.samples.tutorial1","split":"","minSdkVersion":"8"}}]

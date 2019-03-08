@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Oct 12 12:43:59 CDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/rcl/AndroidStudioProjects/tutorial-1-camerapreview/openCVTutorial1CameraPreview/build/intermediates/transforms/dexMerger/debug/85
+0.path=classes.dex
+0.set=DEX
+count=1
