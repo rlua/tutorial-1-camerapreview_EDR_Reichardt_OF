@@ -99,7 +99,7 @@ public class Tutorial1Activity extends Activity implements CvCameraViewListener2
         mOpenCvCameraView.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
-                #mChoice=(mChoice+1)%4;
+                mChoice=(mChoice+1)%4;
                 mChoice=(mChoice+1)%5;
                 return false;
             }
